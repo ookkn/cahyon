@@ -3,6 +3,6 @@
 registry = "test"
 
 [[package]]
-name = "lottiepop---cake/cahyon"
+name = "ookkn/cahyon"
 version = "0.1.0"
 dependencies = []
